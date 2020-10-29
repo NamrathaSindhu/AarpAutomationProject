@@ -13,6 +13,7 @@ public class AddDetails {
 		int age=sc.nextInt();
 		System.out.println("enter employee height");
 		float height=sc.nextFloat();
+		System.out.println("Program finished");
 	}
 
 }
