@@ -15,6 +15,7 @@ public class AddDetails {
 		float height=sc.nextFloat();
 		System.out.println("Program finished");
 		int weight=sc.nextInt();
+		boolean single=true;
 	}
 
 }
