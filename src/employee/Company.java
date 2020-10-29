@@ -4,7 +4,7 @@ public abstract class Company {
 
 	public int id;
 	public String companyName;
-	public Company(String cn,String id)
+	public Company(String cn,int id)
 	{
 		this.companyName=cn;
 		this.id=id;
