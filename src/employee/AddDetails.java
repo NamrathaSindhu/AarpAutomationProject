@@ -14,6 +14,7 @@ public class AddDetails {
 		System.out.println("enter employee height");
 		float height=sc.nextFloat();
 		System.out.println("Program finished");
+		int weight=sc.nextInt();
 	}
 
 }
