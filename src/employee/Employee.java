@@ -3,12 +3,13 @@ package employee;
 public class Employee extends Company {
 
 	public String empName;
-	
+	public int height;
 	
 	public Employee(String empName,int id,String cn)
 	{
 		super(cn,id);
 		this.empName=empName;
+		
 	}
 	
 	public static void main(String[] args) {
